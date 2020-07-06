@@ -1,0 +1,6 @@
+module Pods_FabCustomer {
+  umbrella header "Pods-FabCustomer-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Roboto-Medium.ttf">
+            <string>Roboto-Medium</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Qualification_TableVCell" rowHeight="153" id="KGk-i7-Jjw" customClass="Qualification_TableVCell" customModule="FabCustomer" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="381" height="153"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="381" height="152.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="p6l-bW-Fpk" customClass="CustomView" customModule="FabCustomer" customModuleProvider="target">
+                        <rect key="frame" x="5" y="5" width="371" height="142.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="a0i-Sb-aR2">
+                                <rect key="frame" x="15" y="5" width="351" height="15"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="15" id="TwW-VG-M4t"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="15"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="wBX-D1-oqM">
+                                <rect key="frame" x="15" y="25" width="351" height="108.5"/>
+                                <fontDescription key="fontDescription" name="Roboto-Medium" family="Roboto" pointSize="14"/>
+                                <color key="textColor" red="0.58039215690000001" green="0.58039215690000001" blue="0.58039215690000001" alpha="0.84999999999999998" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Line" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oj2-RG-dB4">
+                                <rect key="frame" x="0.0" y="138.5" width="371" height="1"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="Ptw-2N-Lbn"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7N2-RO-Wgh">
+                                <rect key="frame" x="168" y="139.5" width="100" height="0.0"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" id="3EE-3s-Rcd"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <connections>
+                                    <action selector="editMathod:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="1Py-L6-G47"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Line" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Fl-uB-i7l">
+                                <rect key="frame" x="269" y="139.5" width="1" height="2"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="1" id="Hqj-VZ-qab"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ohT-cw-EYa">
+                                <rect key="frame" x="271" y="139.5" width="100" height="0.0"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="100" id="vwK-mQ-Vag"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <connections>
+                                    <action selector="deleteMathod:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="rD9-GC-cdI"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="ohT-cw-EYa" firstAttribute="trailing" secondItem="oj2-RG-dB4" secondAttribute="trailing" id="3da-S6-JTP"/>
+                            <constraint firstItem="wBX-D1-oqM" firstAttribute="top" secondItem="a0i-Sb-aR2" secondAttribute="bottom" constant="5" id="7jR-pg-tV7"/>
+                            <constraint firstItem="ohT-cw-EYa" firstAttribute="leading" secondItem="6Fl-uB-i7l" secondAttribute="trailing" constant="1" id="8Fp-XC-lzv"/>
+                            <constraint firstItem="7N2-RO-Wgh" firstAttribute="top" secondItem="oj2-RG-dB4" secondAttribute="bottom" id="9Eg-xb-7Qb"/>
+                            <constraint firstAttribute="trailing" secondItem="oj2-RG-dB4" secondAttribute="trailing" id="AWj-u1-aRf"/>
+                            <constraint firstItem="a0i-Sb-aR2" firstAttribute="top" secondItem="p6l-bW-Fpk" secondAttribute="top" constant="5" id="Db3-Bp-D9A"/>
+                            <constraint firstAttribute="bottom" secondItem="7N2-RO-Wgh" secondAttribute="bottom" constant="3" id="EuF-dM-Rhu"/>
+                            <constraint firstItem="6Fl-uB-i7l" firstAttribute="top" secondItem="7N2-RO-Wgh" secondAttribute="top" id="Gm1-FS-4xh"/>
+                            <constraint firstItem="ohT-cw-EYa" firstAttribute="top" secondItem="7N2-RO-Wgh" secondAttribute="top" id="HJC-Gp-czD"/>
+                            <constraint firstAttribute="trailing" secondItem="a0i-Sb-aR2" secondAttribute="trailing" constant="5" id="ItI-Ab-6n7"/>
+                            <constraint firstItem="ohT-cw-EYa" firstAttribute="height" secondItem="7N2-RO-Wgh" secondAttribute="height" id="Lpv-NQ-sBD"/>
+                            <constraint firstAttribute="bottom" secondItem="6Fl-uB-i7l" secondAttribute="bottom" constant="1" id="PsT-34-S4n"/>
+                            <constraint firstItem="oj2-RG-dB4" firstAttribute="leading" secondItem="p6l-bW-Fpk" secondAttribute="leading" id="SQ8-Ci-dr4"/>
+                            <constraint firstItem="6Fl-uB-i7l" firstAttribute="leading" secondItem="7N2-RO-Wgh" secondAttribute="trailing" constant="1" id="Yav-fJ-f75"/>
+                            <constraint firstItem="7N2-RO-Wgh" firstAttribute="width" secondItem="ohT-cw-EYa" secondAttribute="width" id="c2e-58-dwJ"/>
+                            <constraint firstItem="oj2-RG-dB4" firstAttribute="top" secondItem="wBX-D1-oqM" secondAttribute="bottom" constant="5" id="fuj-r8-zCt"/>
+                            <constraint firstItem="wBX-D1-oqM" firstAttribute="width" secondItem="a0i-Sb-aR2" secondAttribute="width" id="lUM-Cb-frb"/>
+                            <constraint firstItem="a0i-Sb-aR2" firstAttribute="leading" secondItem="p6l-bW-Fpk" secondAttribute="leading" constant="15" id="nCg-bc-CNo"/>
+                            <constraint firstItem="wBX-D1-oqM" firstAttribute="centerX" secondItem="a0i-Sb-aR2" secondAttribute="centerX" id="oT8-g9-bGq"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOffsetWidth">
+                                <integer key="value" value="0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                <color key="value" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOffsetHeight">
+                                <integer key="value" value="0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                                <real key="value" value="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="p6l-bW-Fpk" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="nVo-af-VQ2"/>
+                    <constraint firstItem="p6l-bW-Fpk" firstAttribute="height" secondItem="H2p-sc-9uM" secondAttribute="height" constant="-10" id="pnB-Jx-YaJ"/>
+                    <constraint firstItem="p6l-bW-Fpk" firstAttribute="width" secondItem="H2p-sc-9uM" secondAttribute="width" constant="-10" id="sxL-kP-SG4"/>
+                    <constraint firstItem="p6l-bW-Fpk" firstAttribute="centerY" secondItem="H2p-sc-9uM" secondAttribute="centerY" id="v4A-S3-vtU"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="delete_Button" destination="ohT-cw-EYa" id="InH-NF-KBD"/>
+                <outlet property="description_Label" destination="wBX-D1-oqM" id="6Y5-mF-OH1"/>
+                <outlet property="edit_Button" destination="7N2-RO-Wgh" id="s2q-Au-J2v"/>
+                <outlet property="title_Label" destination="a0i-Sb-aR2" id="j7W-He-h1b"/>
+            </connections>
+            <point key="canvasLocation" x="84" y="105.69715142428787"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-FabCustomer/Pods-FabCustomer-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/CountryPickerView/CountryPickerView.bundle
+${PODS_ROOT}/DropDown/DropDown/resources/DropDownCell.xib
+${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle
+${PODS_ROOT}/GooglePlacePicker/Frameworks/GooglePlacePicker.framework/Resources/GooglePlacePicker.bundle
+${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle

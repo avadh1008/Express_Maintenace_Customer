@@ -1,0 +1,822 @@
+/* 
+  Localizable.strings
+  FabCustomer
+
+  Created by apple on 22/10/18.
+  Copyright © 2018 Samyotech. All rights reserved.
+*/
+
+/*
+ Localizable.strings
+ FabCustomer
+ 
+ Created by apple on 22/10/18.
+ Copyright © 2018 Samyotech. All rights reserved.
+ */
+
+
+
+/* Class = "UILabel"; text = "SET HOME ADDRESS"; ObjectID = "0wk-OK-eB2"; */
+"SET HOME ADDRESS" = "مجموعة هوم هوم";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "0y6-DE-tza"; */
+
+/* Class = "UILabel"; text = "SET OFFICE ADDRESS"; ObjectID = "11J-h8-c9n"; */
+
+/* Class = "UIButton"; normalTitle = "   APPLY"; ObjectID = "13R-f1-e01"; */
+"APPLY" = "تطبيق";
+
+/* Class = "UILabel"; text = "Job id : Mvkdj"; ObjectID = "1Cj-Ef-lev"; */
+"Job id :" = "معرف الوظيفة:";
+
+/* Class = "UILabel"; text = "PASSWORD CHANGE"; ObjectID = "1KX-1C-P6l"; */
+
+/* Class = "UILabel"; text = "MY QUALIFICATION"; ObjectID = "1r2-CI-k60"; */
+"MY QUALIFICATION" = "مؤهلاتي";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "2KF-2b-C7I"; */
+"SAVE" = "حفظ";
+
+/* Class = "UILabel"; text = "Crishtino Ronaldo"; ObjectID = "2S1-KD-XYz"; */
+
+/* Class = "UILabel"; text = "line"; ObjectID = "2lN-wI-nbg"; */
+
+/* Class = "UILabel"; text = "TUE"; ObjectID = "302-HC-obm"; */
+"TUE" = "TUE";
+
+/* Class = "UILabel"; text = "FABARTIST COMMISION"; ObjectID = "39P-NA-M94"; */
+"FABARTIST COMMISION" = "لجنة الفنانين";
+
+/* Class = "UIButton"; normalTitle = "  vijay nagar indore"; ObjectID = "3dC-Iz-GZG"; */
+"Address" = "عنوان";
+
+/* Class = "UILabel"; text = "ENTER NEW PASSWORD"; ObjectID = "3hJ-Sz-zcM"; */
+"ENTER NEW PASSWORD" = "أدخل كلمة السر الجديدة";
+
+/* Class = "UILabel"; text = "Online Earnig"; ObjectID = "3wT-af-NYh"; */
+"Online Earnig" = "الربح عبر الإنترنت";
+
+/* Class = "UILabel"; text = "MY IMAGE GALLERY"; ObjectID = "3zJ-A9-Pu7"; */
+"MY IMAGE GALLERY" = "معرض الصور الخاص بي";
+
+/* Class = "UILabel"; text = "Service Type: nell cutter"; ObjectID = "48e-GR-xxQ"; */
+"Service Type" = "نوع الخدمة";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "4fc-Wp-QN9"; */
+"Submit" = "خضع";
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "5KL-bo-VkW"; */
+"Select Category" = "اختر الفئة";
+
+/* Class = "UILabel"; text = "LET START YOUR JOB"; ObjectID = "63g-gt-lwL"; */
+"LET START YOUR JOB" = "دعنا نبدأ عملك";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "66z-TV-3Jz"; */
+"Cancel" = "إلغاء";
+
+/* Class = "UILabel"; text = "ENTER OLD PASSWORD"; ObjectID = "71U-tK-Y2F"; */
+"ENTER OLD PASSWORD" = "أدخل كلمة المرور القديمة";
+
+/* Class = "UILabel"; text = "SELECT IMAGE"; ObjectID = "7D1-4p-ZSq"; */
+"SELECT IMAGE" = "اختر صورة";
+
+/* Class = "UILabel"; text = "YOU HAVE AN APPOINTMENT WITH"; ObjectID = "7T4-DU-xiv"; */
+"YOU HAVE AN APPOINTMENT WITH" = "لديك موعد مع";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Yy-h3-7Sb"; */
+
+/* Class = "UILabel"; text = "Didn't have any account?"; ObjectID = "7ai-dI-Cod"; */
+"Didn't have any account?" = "لم يكن لديك اي حساب؟";
+
+/* Class = "UILabel"; text = "SAT"; ObjectID = "7no-DC-9ZY"; */
+"SAT" = "جلسنا";
+
+/* Class = "UIButton"; normalTitle = "  vijay nagar indore"; ObjectID = "88g-gM-3B0"; */
+"Adress" = "عنوان";
+
+/* Class = "UINavigationItem"; title = "PROFILE SETTING"; ObjectID = "8TL-18-C7b"; */
+"PROFILE SETTING" = "ملف التخصيص";
+
+/* Class = "UILabel"; text = "TODAY"; ObjectID = "8cA-ec-Kue"; */
+"TODAY" = "اليوم";
+
+/* Class = "UILabel"; text = "QUALIFICATION"; ObjectID = "8f7-fd-eG8"; */
+"QUALIFICATION" = "المؤهل";
+
+/* Class = "UIButton"; normalTitle = "Accepted"; ObjectID = "8g5-jt-YE9"; */
+"Accepted" = "وافقت";
+
+/* Class = "UILabel"; text = "MON"; ObjectID = "8hG-DS-fcN"; */
+"MON" = "MON";
+
+/* Class = "UILabel"; text = "line"; ObjectID = "8nH-Tp-kQI"; */
+
+/* Class = "UILabel"; text = "FRI, JUL 27, 2018 17:30 PM"; ObjectID = "92s-r3-hs9"; */
+
+/* Class = "UILabel"; text = "PREVIOUS WORKS"; ObjectID = "9B0-W3-3s5"; */
+"PREVIOUS WORKS" = "الأعمال السابقة";
+
+/* Class = "UILabel"; text = "YOUR BIO"; ObjectID = "9JI-Dx-2XI"; */
+"YOUR BIO" = "سيرتك الذاتية";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "9Ly-ob-Eh6"; */
+
+/* Class = "UILabel"; text = "PRODUCT'S NAMES"; ObjectID = "9NX-6W-zoX"; */
+"PRODUCT'S NAMES" = "أسماء المنتجات";
+
+/* Class = "UILabel"; text = "FRI, JUL 27, 2018 17:30 PM"; ObjectID = "9pG-HP-fj2"; */
+
+/* Class = "UILabel"; text = "SELECT YOUR SPECIALITY"; ObjectID = "AQT-fQ-gtI"; */
+"SELECT YOUR SPECIALITY" = "اختر تخصصك";
+
+/* Class = "UILabel"; text = "MY SKILLS"; ObjectID = "Aec-o6-Egg"; */
+"MY SKILLS" = "مهاراتي";
+
+/* Class = "UILabel"; text = "Roberto Lue"; ObjectID = "Bdy-IC-u7F"; */
+
+/* Class = "UILabel"; text = "SET HOME ADDRESS"; ObjectID = "C64-Cq-F7M"; */
+"SET HOME ADDRESS" = "مجموعة هوم هوم";
+
+/* Class = "UIButton"; normalTitle = "  adityasengar2011@gmail.com"; ObjectID = "EMh-8I-1X7"; */
+
+
+/* Class = "UIButton"; normalTitle = "CONTACT"; ObjectID = "Eck-qe-yyG"; */
+"CONTACT" = "اتصل";
+
+/* Class = "UILabel"; text = "MY PRODUCTS"; ObjectID = "Eud-Er-Dg9"; */
+"MY PRODUCTS" = "منتجاتي";
+
+/* Class = "UITextField"; placeholder = "Search Here"; ObjectID = "F7R-by-x0X"; */
+"Search Here" = "ابحث هنا";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "FFO-qp-LDm"; */
+"Save" = "حفظ";
+
+/* Class = "UILabel"; text = "Devin Tome Devin Tome"; ObjectID = "FS0-So-x6F"; */
+
+/* Class = "UILabel"; text = "MOBILE NUMBER"; ObjectID = "FTe-ha-51Y"; */
+"MOBILE NUMBER" = "رقم الهاتف المحمول";
+
+/* Class = "UILabel"; text = "SET OFFICE ADDRESS"; ObjectID = "Fed-D1-zLO"; */
+"SET OFFICE ADDRESS" = "تعيين عنوان المكتب";
+
+/* Class = "UILabel"; text = "FRI, JUL 27, 2018 17:30 PM"; ObjectID = "Fl1-O2-6H0"; */
+
+/* Class = "UILabel"; text = "asdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsd"; ObjectID = "GFl-SH-GeS"; */
+
+/* Class = "UIButton"; normalTitle = "   COMPLETE"; ObjectID = "GtG-FW-12Q"; */
+"COMPLETE" = "اكتمال";
+
+/* Class = "UILabel"; text = "ABOUT ME"; ObjectID = "Gub-Lr-suF"; */
+"ABOUT ME" = "عني";
+
+/* Class = "UILabel"; text = "SKILLS MANDATORY"; ObjectID = "H01-s8-7pG"; */
+"SKILLS MANDATORY" = "المهارات الإلزامية";
+
+/* Class = "UILabel"; text = "PERSONAL ADDRESS"; ObjectID = "I2D-hS-lgb"; */
+
+/* Class = "UILabel"; text = "GET 30% OFF"; ObjectID = "IZw-h3-OXq"; */
+"GET" = "احصل على";
+
+/* Class = "UILabel"; text = "ONLINE"; ObjectID = "K8z-D9-o9r"; */
+"ONLINE" = "عبر الانترنت";
+
+/* Class = "UILabel"; text = "asdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsdasdsfsd"; ObjectID = "Ke6-zd-kUc"; */
+
+/* Class = "UITextField"; placeholder = "Enter your price for this job"; ObjectID = "Kom-v6-reZ"; */
+"Enter your price for this job" = "أدخل سعرك لهذه الوظيفة";
+
+/* Class = "UILabel"; text = "Roberto Lue"; ObjectID = "LR3-yH-sKV"; */
+
+/* Class = "UILabel"; text = "Aditya"; ObjectID = "Lly-K5-f4Z"; */
+
+/* Class = "UILabel"; text = "NO PAYMENT HISTORY FOUND"; ObjectID = "Lsg-IW-L0k"; */
+"NO PAYMENT HISTORY FOUND" = "لم يتم العثور على تاريخ الدفع";
+
+/* Class = "UILabel"; text = "TITLE"; ObjectID = "Mde-wt-M1Y"; */
+"TITLE" = "عنوان";
+
+/* Class = "UILabel"; text = "PROFILE PICTURE"; ObjectID = "N6V-sf-dTL"; */
+"PROFILE PICTURE" = "الصوره الشخصيه";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "NNp-eP-Y4Z"; */
+"SAVE" = "حفظ";
+
+/* Class = "UILabel"; text = "YOUR NAME"; ObjectID = "NW2-6O-PlQ"; */
+"YOUR NAME" = "اسمك";
+
+/* Class = "UILabel"; text = "SERVICE TYPE: "; ObjectID = "Nef-tr-QUV"; */
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "Nyx-b9-gdz"; */
+"SIGN UP" = "سجل";
+
+/* Class = "UILabel"; text = "Add your issue name"; ObjectID = "O0S-Ip-N7O"; */
+"Add your issue name" = "أضف اسم مشكلتك";
+
+/* Class = "UILabel"; text = "Cash Earning"; ObjectID = "P0k-nl-amJ"; */
+"Cash Earning" = "كسب النقدية";
+
+/* Class = "UILabel"; text = "Job Done"; ObjectID = "P1f-gn-7Lv"; */
+"Job Done" = "تم إنجاز المهمة";
+
+/* Class = "UILabel"; text = "Your Dream Land"; ObjectID = "PM5-8y-aMB"; */
+
+/* Class = "UILabel"; text = "YOUR CITY"; ObjectID = "PeC-Ij-yN8"; */
+"YOUR CITY" = "مدينتك";
+
+/* Class = "UIButton"; normalTitle = "   ACCEPT"; ObjectID = "Q2T-zh-1FR"; */
+"ACCEPT" = "قبول";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "QwP-Xv-Lc5"; */
+"Gender" = "جنس";
+
+/* Class = "UINavigationItem"; title = "Jobs"; ObjectID = "Qyh-2p-FqJ"; */
+"Jobs" = "وظائف";
+
+"JOBS" = "وظائف";
+
+/* Class = "UILabel"; text = "Complete %"; ObjectID = "REi-ob-j91"; */
+"Complete " = "اكتمال";
+
+/* Class = "UIViewController"; title = "All Jobs"; ObjectID = "RVt-f2-gJI"; */
+"All Jobs" = "جميع الوظائف";
+
+/* Class = "UILabel"; text = "NEW REQUEST FOUND"; ObjectID = "RWR-f0-hIF"; */
+"NEW REQUEST FOUND" = "طلب جديد";
+
+/* Class = "UILabel"; text = "Do you have an account already? "; ObjectID = "RaO-bU-f7A"; */
+"Do you have an account already?" = "هل لديك حساب بالفعل؟";
+
+/* Class = "UILabel"; text = "EMAIL ADDRESS"; ObjectID = "Sao-hF-771"; */
+"EMAIL ADDRESS" = "عنوان بريد الكتروني";
+
+/* Class = "UIButton"; normalTitle = "   REJECT"; ObjectID = "ScM-FH-YvH"; */
+"REJECT" = "رفض";
+
+/* Class = "UILabel"; text = "IMAGE GALLERY "; ObjectID = "Spm-bO-u0M"; */
+"IMAGE GALLERY" = "معرض الصور ";
+
+/* Class = "UILabel"; text = "SELECT IMAGE "; ObjectID = "TBw-X6-ECs"; */
+"SELECT IMAGE" = "اختر صورة";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "TMz-bP-W3a"; */
+"SAVE" = "حفظ";
+
+/* Class = "UIButton"; normalTitle = "  START JOB"; ObjectID = "UO8-9c-Wk8"; */
+"START JOB" = "بدء العمل";
+
+/* Class = "UILabel"; text = "PASSWORD CHANGE"; ObjectID = "ViF-en-QFJ"; */
+"PASSWORD CHANGE" = "تغيير كلمة السر";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "WVG-DX-GCP"; */
+"Forgot Password" = "هل نسيت كلمة المرور";
+
+/* Class = "UILabel"; text = "Hair Stylist"; ObjectID = "XBr-6q-s8u"; */
+"Hair Stylist" = "مصفف الشعر";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Xdw-Fb-en3"; */
+
+/* Class = "UILabel"; text = "10:30am"; ObjectID = "Xh1-sn-PjH"; */
+
+
+/* Class = "UILabel"; text = "Select your payment mode Hourly Rate"; ObjectID = "Xmc-bk-9Ij"; */
+"Select your payment mode Hourly Rate" = "حدد وضع الدفع الخاص بك بالساعة";
+
+/* Class = "UILabel"; text = "DURATION : 00:02:05"; ObjectID = "YSz-dK-lAP"; */
+"DURATION" = "المدة الزمنية";
+
+/* Class = "UILabel"; text = "Line"; ObjectID = "YjV-RJ-OJ3"; */
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "Ypw-dw-f1O"; */
+"Sign In" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "Payment ?"; ObjectID = "Z0I-xW-DUb"; */
+"Payment ?" = "دفع؟";
+
+/* Class = "UILabel"; text = "FULL NAME"; ObjectID = "ZFW-1V-uzB"; */
+"FULL NAME" = "الاسم الكامل";
+
+/* Class = "UILabel"; text = "COMPLETED"; ObjectID = "ZJ9-8d-OfN"; */
+"COMPLETED" = "منجز";
+
+/* Class = "UILabel"; text = "$460"; ObjectID = "ZRp-Cg-jay"; */
+
+/* Class = "UILabel"; text = "HAIR STYLE"; ObjectID = "Zas-Yw-UWR"; */
+"HAIR STYLE" = "تسريحه شعر";
+
+/* Class = "UIButton"; normalTitle = "COPY"; ObjectID = "Zek-zv-8GD"; */
+"COPY" = "نسخ";
+
+/* Class = "UILabel"; text = "HAIR STYLIST"; ObjectID = "Zf4-2i-TMd"; */
+
+/* Class = "UILabel"; text = "ABOUT ME"; ObjectID = "a7C-WD-8fx"; */
+
+/* Class = "UILabel"; text = "Hair Stylist"; ObjectID = "aDU-e9-jNM"; */
+
+/* Class = "UILabel"; text = "SET ADDRESS"; ObjectID = "aRl-q2-vEj"; */
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "aVq-Um-im3"; */
+
+/* Class = "UILabel"; text = "Job Id : Mvjjj"; ObjectID = "acf-Sd-4dA"; */
+
+/* Class = "UILabel"; text = "EMAIL ADDRESS"; ObjectID = "ajf-VZ-MO4"; */
+"EMAIL ADDRESS" = "عنوان بريد الكتروني";
+
+/* Class = "UIButton"; normalTitle = "    8817814114"; ObjectID = "asW-B5-rcj"; */
+
+/* Class = "UILabel"; text = "Total Job"; ObjectID = "b5Z-TD-86w"; */
+"Total Job" = "مجموع العمل";
+
+/* Class = "UILabel"; text = "SET ADDRESS"; ObjectID = "bRv-9L-Fsp"; */
+"SET ADDRESS" = "تعيين العنوان";
+
+/* Class = "UILabel"; text = "PRICE"; ObjectID = "bcP-E6-cf8"; */
+"PRICE" = "السعر";
+
+/* Class = "UILabel"; text = "RATE $0/hr"; ObjectID = "bcV-bB-zfN"; */
+
+/* Class = "UILabel"; text = "Text of menu"; ObjectID = "cD6-KX-f9n"; */
+"Text of menu" = "نص القائمة";
+
+/* Class = "UIButton"; normalTitle = "complete"; ObjectID = "cKX-Qz-yEF"; */
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "cRx-xO-r8P"; */
+
+/* Class = "UIButton"; normalTitle = "  0 Jobs Completed"; ObjectID = "ccg-Hv-RDc"; */
+"Jobs Completed" = "الوظائف المنجزة";
+
+/* Class = "UIButton"; normalTitle = " In Progress"; ObjectID = "clo-4z-Ztw"; */
+"In Progress" = "في تقدم";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "cya-yP-f0z"; */
+"Submit" = "خضع";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "d2T-Vd-BTa"; */
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "dDi-Dr-YAT"; */
+
+/* Class = "UILabel"; text = "FULL NAME"; ObjectID = "dGv-uU-hCq"; */
+"FULL NAME" = "الاسم الكامل";
+
+/* Class = "UIButton"; normalTitle = "INVITE FRIEND"; ObjectID = "dLC-QS-JSf"; */
+"INVITE FRIEND" = "دعوة صديق";
+
+/* Class = "UIButton"; normalTitle = "  8817814114"; ObjectID = "dpp-90-X9N"; */
+"Mobile Number" = "رقم الهاتف المحمول";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "e79-YF-wKd"; */
+
+/* Class = "UILabel"; text = "Devin Tome Devin Tome"; ObjectID = "eGp-Uw-vVJ"; */
+
+/* Class = "UILabel"; text = "PERSONAL ADDRESS"; ObjectID = "eNO-Mg-8Ot"; */
+"PERSONAL ADDRESS" = "عنوان شخصي";
+
+/* Class = "UILabel"; text = " SKILLS ADD"; ObjectID = "eSH-eJ-fFS"; */
+"SKILLS ADD" = "المهارات إضافة";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "fAd-bN-CLj"; */
+
+/* Class = "UILabel"; text = "Roberto Lue"; ObjectID = "gKN-Ju-b1p"; */
+
+/* Class = "UIButton"; normalTitle = "VIEW"; ObjectID = "gVv-rr-X4Y"; */
+"VIEW" = "رأي";
+
+/* Class = "UILabel"; text = "REMAINING APPOINTMENT"; ObjectID = "gYg-RC-0nU"; */
+"REMAINING APPOINTMENT" = "الموعد المتبقي";
+
+/* Class = "UILabel"; text = "   TODAY"; ObjectID = "gce-CZ-e8D"; */
+
+/* Class = "UILabel"; text = "WRITE DESCRIPTION"; ObjectID = "gnU-kq-02f"; */
+"WRITE DESCRIPTION" = "وصف الوصف";
+
+/* Class = "UILabel"; text = "00:00.00"; ObjectID = "gxz-of-aIm"; */
+
+/* Class = "UIViewController"; title = "Applied Jobs"; ObjectID = "hyd-rG-eGP"; */
+"Applied Jobs" = "وظائف تطبيقية";
+
+/* Class = "UILabel"; text = "NO CHATS FOUND"; ObjectID = "iyO-ZY-yiG"; */
+"NO CHATS FOUND" = "لم يتم العثور على أي دردشة";
+
+/* Class = "UILabel"; text = "Roberto Lue Roberto Lue"; ObjectID = "izp-rn-Ncf"; */
+
+
+/* Class = "UILabel"; text = "Total Earning"; ObjectID = "jef-se-wBu"; */
+"Total Earning" = "مجموع الأرباح";
+
+/* Class = "UILabel"; text = "Add your Issue Name"; ObjectID = "jnT-h2-2Ns"; */
+"Add your Issue Name" = "أضف اسم مشكلتك";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "jod-uA-Adb"; */
+
+/* Class = "UILabel"; text = "DESCRIPTION"; ObjectID = "k3d-A8-T01"; */
+"DESCRIPTION" = "وصف";
+
+/* Class = "UILabel"; text = "$ 250250"; ObjectID = "kJM-lM-gpw"; */
+
+/* Class = "UIButton"; normalTitle = "  ACCEPT"; ObjectID = "kNP-VY-Brf"; */
+
+/* Class = "UILabel"; text = "Hair Stylist"; ObjectID = "kOP-cg-STb"; */
+
+/* Class = "UILabel"; text = "(0/0)"; ObjectID = "kUL-iW-rCe"; */
+
+/* Class = "UILabel"; text = "MY RATE"; ObjectID = "kok-7k-uwl"; */
+"MY RATE" = "معدل بلدي";
+
+/* Class = "UILabel"; text = "Job Post By : Aditya Sengar"; ObjectID = "lAx-4Q-3KX"; */
+"Job Post By" = "وظيفة وظيفة من قبل";
+
+/* Class = "UIButton"; normalTitle = "No Request Found"; ObjectID = "lKj-g5-fAF"; */
+"No Request Found" = "لم يتم العثور على طلب";
+
+/* Class = "UILabel"; text = "YOUR WORK HAS BEEN STARTED"; ObjectID = "mlr-pj-pCA"; */
+"YOUR WORK HAS BEEN STARTED" = "بدأ العمل الخاص بك";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "mly-5j-WmQ"; */
+
+/* Class = "UILabel"; text = "Desc"; ObjectID = "n90-qw-akF"; */
+
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "nLA-TJ-1HF"; */
+"Submit" = "خضع";
+
+/* Class = "UITextField"; placeholder = "Enter Email Id"; ObjectID = "nzp-Dg-w1e"; */
+"Enter Email Id" = "أدخل معرف البريد الإلكتروني";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "oSS-95-vyj"; */
+
+/* Class = "UILabel"; text = "JANUARY"; ObjectID = "odx-yu-ckV"; */
+"JANUARY" = "كانون الثاني";
+
+/* Class = "UILabel"; text = "sassasas"; ObjectID = "okA-DX-4Zy"; */
+
+/* Class = "UILabel"; text = "25 DEC,2016, 5:15 PM"; ObjectID = "p7M-B8-Tg6"; */
+
+/* Class = "UILabel"; text = "REVIEWED BY"; ObjectID = "pDU-Mn-0eH"; */
+"REVIEWED BY" = "تمت مراجعته من قبل";
+
+/* Class = "UIButton"; normalTitle = "  Edit"; ObjectID = "pPR-gl-gjH"; */
+"Edit" = "تصحيح";
+
+/* Class = "UILabel"; text = "0/500 WORDS"; ObjectID = "pTg-Jz-YR3"; */
+"WORDS" = "كلمات";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "pVB-N1-icE"; */
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "pz7-zg-s6n"; */
+"Pending" = "قيد الانتظار";
+
+/* Class = "UILabel"; text = "ENTER NEW PASSWORD CONFIRM"; ObjectID = "q6B-ji-5Tl"; */
+"ENTER NEW PASSWORD CONFIRM" = "أدخل كلمة المرور الجديدة تأكيد";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "qOv-0V-goA"; */
+
+/* Class = "UILabel"; text = "0/250 WORDS"; ObjectID = "qYw-es-48d"; */
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum sequi a, nostrum.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum sequi a, nostrum."; ObjectID = "qwE-gl-vZj"; */
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "qxq-5m-59M"; */
+"Submit" = "خضع";
+
+/* Class = "UILabel"; text = "FRI"; ObjectID = "r6K-tj-dKq"; */
+"FRI" = "جمعة";
+
+/* Class = "UIButton"; normalTitle = "  0% Completion"; ObjectID = "rkI-fe-GmF"; */
+"Completion" = "إكمال";
+
+/* Class = "UILabel"; text = "NO APPOINMENTS FOUND"; ObjectID = "s9t-Zr-j6C"; */
+"NO APPOINMENTS FOUND" = "لم يتم العثور على التعيينات";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "sOk-fA-whY"; */
+
+/* Class = "UIButton"; normalTitle = "FINISH THE JOB"; ObjectID = "tU3-Vj-cme"; */
+"FINISH THE JOB" = "اكمل الوظيفة";
+
+/* Class = "UIButton"; normalTitle = "REPORT ISSUES"; ObjectID = "trV-GW-X8V"; */
+"REPORT ISSUES" = "قضايا التقارير";
+
+/* Class = "UILabel"; text = "SET YOUR LOCATION"; ObjectID = "u4H-gB-UOY"; */
+"SET YOUR LOCATION" = "حدد موقعك";
+
+/* Class = "UITextField"; placeholder = "Write here..."; ObjectID = "uH0-li-idK"; */
+
+/* Class = "UILabel"; text = "REVIEWS"; ObjectID = "ukm-8h-SRq"; */
+"REVIEWS" = "استعراضات";
+
+/* Class = "UILabel"; text = "SUN"; ObjectID = "umb-L6-A7c"; */
+"SUN" = "شمس";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "vEC-Rf-1Pg"; */
+
+/* Class = "UILabel"; text = "  APPLY CODE"; ObjectID = "vG1-Pz-ush"; */
+"APPLY CODE" = "تطبيق الكود";
+
+/* Class = "UITextField"; placeholder = "Ex : Critino Ronoldo"; ObjectID = "vYJ-U5-8Iv"; */
+"Ex :" = "على سبيل المثال:";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "vgm-23-Se5"; */
+"CHANGE" = "يتغيرون";
+
+/* Class = "UIButton"; normalTitle = "$ 250"; ObjectID = "vk9-aJ-Fnv"; */
+
+/* Class = "UILabel"; text = "WED"; ObjectID = "vox-w9-P70"; */
+"WED" = "WED";
+
+/* Class = "UILabel"; text = "VIDEO GALLERY "; ObjectID = "wJ2-HL-SNJ"; */
+"VIDEO GALLERY" = "عرض الفيديو";
+
+/* Class = "UILabel"; text = "Service Type: nell cutter"; ObjectID = "wdA-hY-e32"; */
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "wgZ-aD-xSm"; */
+"Name" = "اسم";
+
+/* Class = "UILabel"; text = "SERVICE # SH2145"; ObjectID = "x9o-ni-tlv"; */
+"SERVICE" = "الخدمات";
+
+/* Class = "UIButton"; normalTitle = "ADD NEW"; ObjectID = "xCJ-5z-ZHK"; */
+"ADD NEW" = "اضف جديد";
+
+/* Class = "UILabel"; text = "THU"; ObjectID = "xIb-ps-67P"; */
+"THU" = "THU";
+
+/* Class = "UILabel"; text = "YOUR COUNTRY"; ObjectID = "xY4-i0-G8I"; */
+"YOUR COUNTRY" = "بلدك";
+
+/* Class = "UIButton"; normalTitle = "   REJECT"; ObjectID = "xdP-Lq-QdZ"; */
+
+/* Class = "UITextField"; placeholder = "Write here..."; ObjectID = "xrp-Xp-Lzb"; */
+"Write here" = "اكتب هنا";
+
+/* Class = "UILabel"; text = "EDIT PERSONAL INFORMATION"; ObjectID = "xsp-4R-mAO"; */
+"EDIT PERSONAL INFORMATION" = "تحرير المعلومات الشخصية";
+
+/* Class = "UILabel"; text = "GDSI200"; ObjectID = "xt3-Il-lEa"; */
+
+
+/* Class = "UILabel"; text = "Enter the detail for applied job"; ObjectID = "y4a-9T-49T"; */
+"Enter the detail for applied job" = "أدخل التفاصيل عن الوظيفة المطبقة";
+
+/* Class = "UILabel"; text = "MOBILE NUMBER"; ObjectID = "yRi-gg-znQ"; */
+
+/* Class = "UILabel"; text = "line"; ObjectID = "ybY-5c-0bL"; */
+
+/* Class = "UIButton"; normalTitle = "  DECLINE"; ObjectID = "ybz-4C-CnQ"; */
+"DECLINE" = "انخفاض";
+
+/* Class = "UIButton"; normalTitle = "DELETE"; ObjectID = "yob-du-d2I"; */
+"DELETE" = "حذف";
+
+/* Class = "UILabel"; text = "JOHN Hemar"; ObjectID = "z43-GY-22v"; */
+
+/* Class = "UILabel"; text = "0"; ObjectID = "zgQ-TN-m3n"; */
+/*
+ Localizable.strings
+ Key_Market
+ 
+ Created by apple on 17/10/18.
+ Copyright © 2018 apple. All rights reserved.
+ */
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "2i6-Ab-Ae7"; */
+"Email" = "البريد الإلكتروني";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4Pq-fe-YTl"; */
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD? "; ObjectID = "4mA-HT-D33"; */
+"FORGOT PASSWORD" = "هل نسيت كلمة المرور? ";
+"Forgot Password"  = "هل نسيت كلمة المرور? ";
+/* Class = "UILabel"; text = "Find In"; ObjectID = "5jJ-Jm-LhW"; */
+"Find_In" = "تجد في";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6mC-YH-PN9"; */
+"Password" = "كلمه السر";
+
+"Submit" = "خضع";
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "762-xM-hNy"; */
+"Search" = "بحث";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "AiJ-JC-6OM"; */
+"Welcome" = "أهلا بك";
+
+/* Class = "UILabel"; text = "B"; ObjectID = "B30-mI-4Ve"; */
+"B30-mI-4Ve.text" = "B";
+
+/* Class = "UILabel"; text = "Items"; ObjectID = "EPy-HZ-Qzf"; */
+"Items" = "العناصر";
+
+/* Class = "UILabel"; text = "To Key Market"; ObjectID = "Ffo-hC-SjU"; */
+"To_Key_Market" = "الى السوق الرئيسية";
+
+/* Class = "UITextField"; placeholder = "Confirm  Password"; ObjectID = "FxR-DX-hc2"; */
+"Confirm  Password" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "Gfy-DM-Oq9"; */
+
+/* Class = "UIButton"; normalTitle = "CAR"; ObjectID = "Jwa-jj-184"; */
+"CAR" = "سيارة";
+
+/* Class = "UILabel"; text = "Line"; ObjectID = "K1G-AJ-EWc"; */
+"Line" = "خط";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "LEm-5T-BT3"; */
+"LEm-5T-BT3.text" = "A";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "LOI-kt-hkN"; */
+"Language" = "لغة";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "Nrb-g1-EFT"; */
+
+/* Class = "UIButton"; normalTitle = "FOOD"; ObjectID = "SSY-K1-son"; */
+"FOOD" = "طعام";
+
+/* Class = "UILabel"; text = "One of the best ever app for finding restaurent nearby you and also find taxi and rental homes and offices"; ObjectID = "SSq-RE-qo4"; */
+"Find" = "واحدة من أفضل التطبيقات من أي وقت مضى للعثور على ريستورينت القريبة منك وأيضا العثور على سيارات الأجرة والمنازل والمكاتب الإيجار";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "Tfy-Rn-ur7"; */
+"User Name" = "اسم المستخدم";
+
+/* Class = "UIButton"; normalTitle = "Send Link"; ObjectID = "Tnr-Eu-5yL"; */
+"Send_Link" = "أرسل الرابط";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "XaA-bA-qh4"; */
+"English" = "الإنجليزية";
+
+/* Class = "UILabel"; text = "More Result"; ObjectID = "XuF-F2-Ymk"; */
+"More_Result" = "زيادة في النتيجة";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "bab-eR-tLd"; */
+
+
+/* Class = "UIButton"; normalTitle = "GET START"; ObjectID = "cVl-zy-krp"; */
+"GET START" = "ابدأ";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "cW6-iF-3RC"; */
+"Edit_Profile" = "تعديل الملف الشخصي";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account?"; ObjectID = "dcV-Dn-ibZ"; */
+"not_Acc" = "ليس لديك حساب؟";
+
+/* Class = "UILabel"; text = "Enter email id you used to register."; ObjectID = "dmY-sH-60n"; */
+"ema_ragi" = "أدخل معرف البريد الإلكتروني الذي استخدمته للتسجيل.";
+
+/* Class = "UIButton"; normalTitle = "HOME"; ObjectID = "ech-kA-6Ag"; */
+"HOME" = "الصفحة الرئيسية";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD? "; ObjectID = "gfT-4y-qcc"; */
+
+/* Class = "UILabel"; text = "C"; ObjectID = "ho5-Ht-Rco"; */
+"ho5-Ht-Rco.text" = "C";
+
+/* Class = "UIButton"; normalTitle = "Arabic"; ObjectID = "i8z-Xu-f0k"; */
+"Arabic" = "عربى";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP"; ObjectID = "iP8-wJ-b1l"; */
+"SIGNUP" = "سجل";
+"Sign Up" = "سجل";
+
+/* Class = "UILabel"; text = "Following"; ObjectID = "kDx-n0-l5z"; */
+"Following" = "التالية";
+
+/* Class = "UILabel"; text = "Line"; ObjectID = "mF3-B9-RTc"; */
+
+/* Class = "UILabel"; text = "Line"; ObjectID = "mR7-ge-n4u"; */
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "pUk-5g-3w3"; */
+"Clear" = "واضح";
+
+/* Class = "UILabel"; text = "To Key Market"; ObjectID = "t6r-7a-Yg3"; */
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "trT-aW-i85"; */
+"Followers" = "متابعون";
+
+/* Class = "UIButton"; normalTitle = "Don't have an account?"; ObjectID = "v5z-53-HGQ"; */
+
+"Signout" =  "خروج";
+
+
+"SIGN IN" =  "تسجيل الدخول";
+
+"Search your nearby Make up Artist and stylish" = "بحث عن الفنان المكياج الخاص بك في مكان قريب وأنيق";
+
+"Get your best service from us" = "احصل على أفضل خدمة منا";
+"Make yourself more beautiful than you think." = "اجعل نفسك أكثر جمالا مما تعتقد.";
+"Rent the best photography and create your own moment."="استئجار أفضل تصوير وإنشاء اللحظة الخاصة بك.";
+"Didn't have any account?" = "لم يكن لديك اي حساب؟";
+
+"Do you have an account already?" = "هل لديك حساب بالفعل؟";
+
+"Do" = "فعل";
+"you" = "أنت";
+"Enter Email Id"="أدخل معرف البريد الإلكتروني";
+"Enter Password"="أدخل كلمة المرور";
+"Enter First Name"="أدخل الاسم الأول";
+"Enter Confirm Password"="أدخل تأكيد كلمة المرور";
+"Enter Referral Code (Optional)"="أدخل رمز الإحالة (اختياري)";
+
+"Chat Support" = "دعم الدردشة";
+"Profile Settings" = "إعدادات الملف الشخصي";
+"Invoice"="فاتورة";
+"INVOICE"="فاتورة";
+
+"YOUR EARNINGS"="أرباحك";
+"Your Earning"="أرباحك";
+"YOUR EARNING" =  "كسبك";
+"Your Earnings" = "أرباحك";
+"your Profile"="ملفك الشخصي";
+"YOUR PROFILE"="ملفك الشخصي";
+"Notifications"="إخطارات";
+"NOTIFICATION" = "الإخطار";
+
+"My Appoinments"="بلدي المواعيد";
+"My Appoinment" = "بلدي المواعيد";
+"Find Jobs"="العثور على وظائف";
+"Chats"="دردشات";
+"Chat"="دردشات";
+"CHAT"="دردشات";
+"Current Booking"="الحجز الحالي";
+
+"Your Profile"="ملفك الشخصي";
+"language Support"= "دعم اللغة";
+
+"all jobs not found"= "كل الوظائف غير موجودة";
+"ALL JOBS NOT FOUND"= "كل الوظائف غير موجودة";
+"LANGUAGE" = "لغة";
+
+"MY CALENDAR" = "تقويمي";
+
+
+"GET OFFER" = "احصل على عرض";
+
+"Support" = "الدعم";
+"Complete %" = "اكتمال ٪";
+"Are you sure do you want to process with payment" = "هل أنت متأكد من أنك تريد معالجة الدفع";
+
+
+"MORE FILTER"="مزيد من التصفية";
+"GENDER PREFERENCE"="النوع الاجتماعي";
+"ARTIST PREFERENCE"="التفضيل الفني";
+"RADIUS"="نصف القطر";
+"ALL"="الكل";
+"Self Taught"="علم النفس";
+"Professionally Trained"="تدرب مهنيا";
+"SUBMIT"="خضع";
+"MALE"="الذكر";
+"FEMALE"="إناثا";
+
+"ACTIVE IN"="نشط في";
+"No Artist Found Regarding this Category"="لم يتم العثور على فنان بخصوص هذه الفئة";
+"ALL CATEGORIES"="جميع الفئات";
+"No Artist Found Regarding this Category"="لم يتم العثور على فنان بخصوص هذه الفئة";
+"SEARCH NEARBY"="البحث في الأماكن القريبة";
+"INVITE FRIEND"="دعوة صديق";
+"No Notification Found"="لم يتم العثور على إشعار";
+"Select Again"="حدد مرة أخرى";
+"fixed rate Add On"="سعر ثابت إضافة على";
+"ADD TO CART FOR $"="أضف إلى السلة $";
+"Home" = "الصفحة الرئيسية";
+"My Bookings" = "حجوزاتي" ;
+"My Booking" = "حجوزاتي" ;
+"Post Job" = "وظيفة بعد";
+"Promotions" = "الترقيات" ;
+
+"Active Booking"= "الحجز النشط";
+"No Booking Found"="لم يتم العثور على الحجز";
+"NO jobs Found"="لا توجد وظائف";
+"NO JOBS FOUND"="لا توجد وظائف";
+
+"NO PAYMENTS HISTORY FOUND" = "لم يتم العثور على تاريخ المدفوعات";
+"No payments history found" = "لم يتم العثور على تاريخ المدفوعات";
+"Are you sure do you want to finish this job"="هل أنت متأكد من أنك تريد إنهاء هذا العمل";
+
+
+"Job Categories"="فئات الوظائف";
+"Job Title"="عنوان وظيفي";
+"Enter Your Description"="أدخل وصفك";
+"Enter Price"="أدخل السعر";
+"enter address"="أدخل العنوان";
+"New job"="مهنة جديدة";
+"post"="بريد";
+"Post"="بريد";
+"no jobs found"="لم يتم العثور على وظائف";
+"discover"="اكتشف";
+"DISCOVER"="اكتشف";
+"Near by"="مجاوز";
+"NEAR BY"="مجاوز";
+"Edit Job" = "تحرير الوظيفة";
+
+
+
+"Enter Address"="أدخل العنوان";
+"Enter Price" ="أدخل السعر";
+
+"BOOK NOW" ="احجز الآن";
+
+"QUICK CHAT" = "دردشة سريعة";
+"FUTURE BOOKING" = "الحجز المستقبلي";
+
+"No Video Available" = "لا يوجد فيديو متاح";
+"PREVIOUS WORK" = "عمل سابق";
+"Add Your Issue Name" = "أضف اسم مشكلتك";
+
+"Bookings & Jobs" = "حجوزات و وظائف";
+"Personal" = "الشخصية";
+"Other" = "آخر";
+"Home Features" = "الميزات الرئيسية";
